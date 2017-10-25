@@ -1,4 +1,4 @@
-# Search-Engine
+# Search-Engine for Olympics
 
 •	Built term-based index for 100,000 crawled web pages using Lucene Indexing algorithm.
 
